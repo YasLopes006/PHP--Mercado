@@ -23,7 +23,9 @@ CREATE TABLE itens (
     FOREIGN KEY (usuario_id) REFERENCES usuarios(id)
 );
 ```
+2. Copie os arquivos para seu servidor local (ex: `htdocs/mercado/` no XAMPP)
 
+3. Acesse `http://localhost/mercado/auth/register.php` para iniciar.
 Sistema de Gerenciamento de Mercado
 
 Este projeto foi desenvolvido com o tema "mercado", criando um sistema completo para controle de produtos e itens de supermercado. Ele simula um ambiente real de gerenciamento de estoque, onde usuários podem:
@@ -40,7 +42,3 @@ Recursos com Temática de Mercado:
 ✔ Exclusão Segura (controle de itens vencidos ou descontinuados)
 
 O sistema usa cores e design que remetem a um supermercado moderno (verde = frescor, vermelho = alertas, cards = organização de produtos). Ideal para pequenos mercados ou como projeto de estudo para gestão comercial.
-
-2. Copie os arquivos para seu servidor local (ex: `htdocs/mercado/` no XAMPP)
-
-3. Acesse `http://localhost/mercado/auth/register.php` para iniciar.

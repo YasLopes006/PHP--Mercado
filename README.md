@@ -42,3 +42,7 @@ Recursos com Temática de Mercado:
 ✔ Exclusão Segura (controle de itens vencidos ou descontinuados)
 
 O sistema usa cores e design que remetem a um supermercado moderno (verde = frescor, vermelho = alertas, cards = organização de produtos). Ideal para pequenos mercados ou como projeto de estudo para gestão comercial.
+
+Ashilei vitoria da silva gomes
+
+Yasmin Cristini Lopes Oliveira

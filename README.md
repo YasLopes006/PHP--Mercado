@@ -24,6 +24,23 @@ CREATE TABLE itens (
 );
 ```
 
+Sistema de Gerenciamento de Mercado
+
+Este projeto foi desenvolvido com o tema "mercado", criando um sistema completo para controle de produtos e itens de supermercado. Ele simula um ambiente real de gerenciamento de estoque, onde usuários podem:
+
+Cadastrar itens (como produtos de mercearia, hortifruti, etc.)
+
+Organizar descrições (informações como marca, peso, validade)
+
+Controlar acesso (login seguro para funcionários ou administradores)
+
+Recursos com Temática de Mercado:
+✔ Cadastro de Produtos (nome, descrição detalhada)
+✔ Listagem Organizada (como prateleiras virtuais)
+✔ Exclusão Segura (controle de itens vencidos ou descontinuados)
+
+O sistema usa cores e design que remetem a um supermercado moderno (verde = frescor, vermelho = alertas, cards = organização de produtos). Ideal para pequenos mercados ou como projeto de estudo para gestão comercial.
+
 2. Copie os arquivos para seu servidor local (ex: `htdocs/mercado/` no XAMPP)
 
 3. Acesse `http://localhost/mercado/auth/register.php` para iniciar.
